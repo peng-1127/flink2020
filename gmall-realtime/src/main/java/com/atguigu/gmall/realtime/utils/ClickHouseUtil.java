@@ -20,7 +20,7 @@ import java.sql.SQLException;
 public class ClickHouseUtil {
     public static <T> SinkFunction<T> getJdbcSink(String sql) {
 
-        //参数:
+        //参数:d
         // 1.sql(占位符)
         // 2.给占位符赋值
         // 3.要不要批量提交
