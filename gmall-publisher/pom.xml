@@ -89,7 +89,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.atguigu.gmallpublisher.GmallPublisherApplication</mainClass>
+                    <mainClass>com.peng.gmallpublisher.GmallPublisherApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
